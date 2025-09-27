@@ -4,7 +4,7 @@ An AI-powered web application for classifying academic publication abstracts int
 
 ## Demo
 
-### Interface after initializating the app .
+### Interface after initializating the app.
 
 ![Homepage](static/images/image1.png)
 
